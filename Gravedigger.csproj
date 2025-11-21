@@ -3,9 +3,9 @@
   <PropertyGroup>
     <ExtensionId>Gravedigger</ExtensionId>
     <Authors>DBGJ</Authors>
-    <Version>0.1.2</Version>
+    <Version>0.0.1</Version>
     <Title>Gravedigger</Title>
-    <Description>A tool for handling subitems in dRofus coming from objects in linked models</Description>
+    <Description>A tool for grabbing element data from a backup model, in cases where element data has been lost</Description>
     <PackageTags>Revit;Assistant;Extension</PackageTags>
     <PackageIcon>Icon.png</PackageIcon>
     <PackageIconUrl></PackageIconUrl>
